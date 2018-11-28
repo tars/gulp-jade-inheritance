@@ -28,7 +28,7 @@
     "sinon": "^1.17.2"
   },
   "dependencies": {
-    "event-stream": "^3.3.2",
+    "event-stream": "4.0.1",
     "gulp-util": "^3.0.7",
     "jade-inheritance": "^0.2.1",
     "lodash": "^3.10.1",
