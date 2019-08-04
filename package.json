@@ -29,10 +29,10 @@
   },
   "dependencies": {
     "event-stream": "4.0.1",
-    "gulp-util": "^3.0.7",
-    "jade-inheritance": "^0.2.1",
-    "lodash": "^3.10.1",
-    "through2": "^2.0.0",
-    "vinyl-fs": "^2.2.1"
+    "gulp-util": "^3.0.8",
+    "jade-inheritance": "https://github.com/tars/jade-inheritance/archive/master.tar.gz",
+    "lodash": "^4.17.15",
+    "through2": "^3.0.1",
+    "vinyl-fs": "^3.0.3"
   }
 }
